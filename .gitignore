@@ -1,0 +1,8 @@
+node_modules
+local.json
+local.env
+local.settings.json
+
+package-lock.json
+
+!.gitkeep
